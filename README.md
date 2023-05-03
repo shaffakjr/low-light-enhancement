@@ -11,7 +11,7 @@ Our method enhances a single low-light image using region-based histogram specif
 The algorithm improves the perceptual quality of captured low-light photos and results in no colour distortion or artefacts.
 
 ## Enhancement results
-<img src="samp1.jpg" width="800">
+<img src="samp1.JPG" width="800">
 Examples here shown at low resolution.
 
 Simulation results - Google Drive:
